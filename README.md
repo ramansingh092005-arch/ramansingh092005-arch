@@ -1,21 +1,21 @@
  
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050816,35:172554,70:312E81,100:00C9FF&text=UTKARSH%20SINGH&fontSize=57&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20SYSTEMS%20%7C%20ALGORITHMS&descAlignY=62&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080B1A,40:172554,75:312E81,100:00C9FF&text=UTKARSH%20SINGH&fontSize=56&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20SYSTEMS&descAlignY=60&descSize=16"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Software;Backend+Engineering+%26+System+Design;Competitive+Programming+%26+DSA;AI+%2F+ML+%2F+LLM+Exploration;Turning+Ideas+Into+Real+Products"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Software;Backend+Engineering+%26+System+Design;Competitive+Programming+%26+DSA;AI+%2F+ML+%2F+LLM+Exploration;Turning+Ideas+Into+Real+Products"/>
 
-<br/><br/>
+<br/>
 
-<a href="mailto:ramansingh092005@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/utkarsh-singh-a07966274/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/ramansingh092005-arch"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
+<a href="mailto:ramansingh092005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/utkarsh-singh-a07966274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ramansingh092005-arch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ramansingh092005-arch&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<a href="https://leetcode.com/u/SINGH_UTKAR0402/">LeetCode</a> ·
+<a href="https://codeforces.com/profile/utkarsh0402">Codeforces</a> ·
+<a href="https://www.codechef.com/users/mad_coder_09">CodeChef</a>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="68%" valign="middle">
 
 ## ✨ About Me
 
@@ -40,9 +40,9 @@ I enjoy building full-stack products, solving algorithmic problems and exploring
 **My philosophy:** Understand deeply. Build carefully. Optimize relentlessly.
 
 </td>
-<td width="35%" valign="middle" align="center">
+<td width="32%" valign="middle" align="center">
 
-<img src="./assets/utkarsh-ai-orbit.gif" width="100%" alt="Animated AI Orbit"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,react,nodejs,ts,tensorflow&perline=2&theme=dark" width="100%" alt="Technology icons"/>
 
 </td>
 </tr>
@@ -56,29 +56,29 @@ I enjoy building full-stack products, solving algorithmic problems and exploring
 <tr>
 <td width="33%" align="center">
 
-### 🚀 BUILD
+**🚀 BUILD**
 
-Full-stack applications
+Full-stack products
 
 Backend systems
 
-Real-world products
+Real-world solutions
 
 </td>
 <td width="33%" align="center">
 
-### 🤖 EXPLORE
+**🤖 EXPLORE**
 
 AI & LLMs
 
 Machine Learning
 
-Intelligent automation
+Intelligent applications
 
 </td>
 <td width="33%" align="center">
 
-### 🧠 MASTER
+**🧠 MASTER**
 
 DSA & Algorithms
 
@@ -92,112 +92,27 @@ System Design
 
 ---
 
-## 🛠️ Technology Stack
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,flask,postgres,mongodb,tensorflow,git,github,linux,vite&perline=5&theme=dark"/>
 
 </div>
-</details>
 
 <details>
-<summary><b>🎨 Frontend Engineering</b></summary>
+<summary><b>Explore complete technical toolkit</b></summary>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark"/>
-
-</div>
-</details>
-
-<details>
-<summary><b>⚙️ Backend Engineering</b></summary>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/>
-
-</div>
-
-- REST APIs
-- Socket.IO
-- Backend application architecture
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Data</b></summary>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
-
-</div>
-</details>
-
-<details>
-<summary><b>🤖 AI / Machine Learning / LLM Ecosystem</b></summary>
-
-**Project experience and concepts**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Random%20Forest-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge"/>
-
-</div>
-
-**AI ecosystem — tools and concepts to explore**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-
-</div>
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud, DevOps & Infrastructure — Currently Exploring</b></summary>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🔧 Developer Tools & Hardware</b></summary>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Verilog%20HDL-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Icarus%20Verilog-007C91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge"/>
-
-</div>
+| Category | Technologies |
+|---|---|
+| Languages | C++, Python, JavaScript, TypeScript |
+| Frontend | React, Vite, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express, Flask, Socket.IO |
+| Databases | PostgreSQL, MongoDB |
+| AI / ML | TensorFlow, Random Forest |
+| Hardware | Verilog HDL, Icarus Verilog |
+| Simulation | MATLAB, Simulink |
+| Tools | Git, GitHub, Linux, Bash, npm |
 
 </details>
 
@@ -206,143 +121,126 @@ System Design
 # 🚀 Featured Projects
 
 <details>
-<summary><b>🏛️ 01 — NagarVaani | Citizen-Centric Civic Platform</b></summary>
+<summary><b>🏛️ NagarVaani — Citizen-Centric Civic Platform</b> · Civic Tech</summary>
 
-**Building a digital platform for citizen services and civic engagement.**
+A digital platform focused on citizen services and civic engagement.
 
-**Features**
-- Citizen-facing web application.
-- Grievance and complaint workflows.
+**Core areas**
+- Citizen-facing service workflows.
+- Grievance and complaint management.
 - Government scheme discovery.
 - Citizen communication workflows.
-- Complaint tracking and administrative visibility.
-- WhatsApp and NLP-based interaction concepts.
+- Administrative visibility and tracking.
 
-**Engineering focus:** Full-stack development, APIs, authentication, integrations and data workflows.
+**Engineering focus:** Frontend, backend APIs, authentication, integrations and data workflows.
 
 </details>
 
 <details>
-<summary><b>📊 02 — CM Dashboard | Governance Intelligence</b></summary>
+<summary><b>📊 CM Dashboard — Governance Intelligence</b> · Analytics</summary>
 
-**Administrative dashboard for monitoring governance operations.**
+An administrative dashboard for monitoring governance operations and performance information.
 
-**Features**
+**Core areas**
 - Executive dashboard.
 - Operational KPIs.
 - District-level performance visibility.
 - Complaint and SLA monitoring.
 - Analytics and information visualization.
-- Administrative insights.
 
 **Engineering focus:** Dashboard architecture, data visualization and analytics.
 
 </details>
 
 <details>
-<summary><b>🤖 03 — AI Query System | Natural Language Data Interaction</b></summary>
+<summary><b>🤖 AI Query System — Natural Language Data Interaction</b> · AI</summary>
 
-**Exploring natural-language interaction with structured application data.**
+An AI-assisted query experience designed around asking questions in natural language and retrieving structured information.
 
-**Core capabilities**
-- Natural-language question input.
+**Core concepts**
+- Natural-language input.
 - Query interpretation.
 - Structured data retrieval.
 - AI-generated responses.
 - Application and data integration.
 
-**Engineering focus:** LLM workflows, prompt engineering, query processing and intelligent applications.
+**Engineering focus:** LLM workflows, query processing and intelligent applications.
 
 </details>
 
 <details>
-<summary><b>🧠 04 — Latitude LLM | LLM Observability</b></summary>
+<summary><b>🧠 Latitude LLM — LLM Observability</b> · AI Infrastructure</summary>
 
-**Exploring observability and evaluation infrastructure for LLM applications.**
+Exploring observability and evaluation infrastructure for LLM applications.
 
-**Technical areas**
+**Technical concepts**
 - Prompt and response tracing.
 - Token usage and latency monitoring.
-- Error tracking.
+- Error and execution tracking.
 - Evaluation and regression analysis.
 - AI application reliability.
 
-<a href="https://github.com/latitude-dev/latitude-llm">Explore Latitude LLM</a>
-
 </details>
 
 <details>
-<summary><b>🏪 05 — Aaspaas | Kirana Shop Operating System</b></summary>
+<summary><b>🏪 Aaspaas — Kirana Shop Operating System</b> · Product Engineering</summary>
 
-**A digital operating system for local retail businesses.**
+A digital operating system designed to simplify everyday operations for local kirana shops.
 
 **Features**
 - Shop and product management.
-- Inventory and stock tracking.
+- Inventory and stock workflows.
 - Billing and sales management.
 - Customer and supplier ledgers.
-- Purchase and expense tracking.
+- Purchases and expense tracking.
 - Real-time updates.
 
-**Technology**
+**Stack:** Node.js · TypeScript · PostgreSQL · MongoDB · Socket.IO · Vite
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,mongodb,vite&theme=dark"/>
-
-**Future AI roadmap:** Demand forecasting, stock recommendations and natural-language business analytics.
+**Future AI roadmap:** Demand forecasting, intelligent stock recommendations and natural-language business analytics.
 
 </details>
 
 <details>
-<summary><b>🚦 06 — Smart Traffic Management System</b></summary>
+<summary><b>🚦 Smart Traffic Management System</b> · Hardware Engineering</summary>
 
-**Adaptive traffic control using hardware-oriented digital logic.**
+Adaptive traffic control implemented using hardware-oriented digital logic.
 
-**Features**
-- 10-state FSM.
-- Dynamic green timing.
+**Technical highlights**
+- 10-state Finite State Machine.
+- Dynamic adaptive green timing.
 - Emergency vehicle preemption.
 - Hardware-enforced mutual exclusion.
-- Flask middleware.
-- Frontend visualization.
+- Flask middleware and frontend visualization.
 
-**Technology**
-
-<img src="https://img.shields.io/badge/Verilog-HDL-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+**Stack:** Verilog HDL · Icarus Verilog · Python · Flask
 
 </details>
 
 <details>
-<summary><b>📡 07 — AI-Driven Adaptive OFDM Communication System</b></summary>
+<summary><b>📡 AI-Driven Adaptive OFDM Communication System</b> · AI + Communication</summary>
 
-**Machine learning meets digital communication.**
+Machine-learning-based adaptation in a simulated OFDM communication system.
 
-**Features**
-- 64-point IFFT.
-- 52 active subcarriers.
+**Technical highlights**
+- 64-point IFFT and 52 active subcarriers.
 - Cyclic prefix of 16 samples.
 - AWGN and Rayleigh channel models.
 - Random Forest-based adaptation.
 - BER, SER, EVM and Goodput evaluation.
 
-**Technology:** MATLAB · Simulink · Python · Random Forest
+**Stack:** MATLAB · Simulink · Python · Random Forest
 
 </details>
 
 <details>
-<summary><b>🗺️ 08 — PathFinder | Graph Algorithm Visualizer</b></summary>
+<summary><b>🗺️ PathFinder — Graph Algorithm Visualizer</b> · Algorithms</summary>
 
 Interactive graph algorithm visualization.
 
-**Algorithms**
-- BFS
-- DFS
-- Dijkstra
-- A* Search
-- Bellman-Ford
+**Algorithms:** BFS · DFS · Dijkstra · A* · Bellman-Ford
 
-**Technology:** React · JavaScript · HTML · CSS
+**Stack:** React · JavaScript · HTML · CSS
 
 </details>
 
@@ -360,22 +258,14 @@ Interactive graph algorithm visualization.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/SINGH_UTKAR0402/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/utkarsh0402">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.codechef.com/users/mad_coder_09">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
+<a href="https://leetcode.com/u/SINGH_UTKAR0402/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/utkarsh0402"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces"/></a>
+<a href="https://www.codechef.com/users/mad_coder_09"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/></a>
 
 </div>
 
 <details>
-<summary><b>Explore DSA roadmap</b></summary>
+<summary><b>Explore my DSA roadmap</b></summary>
 
 | Foundation | Advanced |
 |---|---|
@@ -387,7 +277,9 @@ Interactive graph algorithm visualization.
 | Greedy | Bitmask DP |
 | Dynamic Programming | Number Theory |
 
-**Problem-solving workflow:** Constraints → Pattern → Invariant → Proof → Complexity → Optimization.
+**Problem-solving workflow**
+
+`Constraints → Pattern → Invariant → Proof → Complexity → Optimization`
 
 </details>
 
@@ -402,11 +294,11 @@ Interactive graph algorithm visualization.
 </div>
 
 <details>
-<summary><b>🐍 Open contribution animation</b></summary>
+<summary><b>🐍 Contribution Snake Animation</b></summary>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ramansingh092005-arch/ramansingh092005-arch/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/ramansingh092005-arch/ramansingh092005-arch/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
@@ -421,9 +313,10 @@ Interactive graph algorithm visualization.
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramansingh092005-arch&theme=github_dark"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramansingh092005-arch&theme=github_dark"/>
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramansingh092005-arch&theme=github_dark&utcOffset=5.5"/>
 
-<br/><br/>
+<br/>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=ramansingh092005-arch&theme=tokyonight&hide_border=true"/>
 
@@ -454,6 +347,6 @@ Interactive graph algorithm visualization.
 
 *Build with curiosity. Engineer with purpose.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:172554,70:312E81,100:00C9FF&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,40:172554,75:312E81,100:00C9FF&height=110&section=footer"/>
 
 </div>
