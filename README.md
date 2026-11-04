@@ -1,155 +1,139 @@
  
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,40:102A43,100:00C9FF&height=280&section=header&text=UTKARSH%20SINGH&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20ALGORITHMS%20%7C%20SYSTEMS&descAlignY=60&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=UTKARSH%20SINGH&fontSize=65&fontColor=00E5FF&color=0:050816,50:151038,100:001F3F&animation=twinkling&stroke=00D4FF&strokeWidth=1"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Competitive+Programmer+%7C+Problem+Solver;Backend+Engineering+%7C+Real-Time+Systems;Building+Products+for+Real-World+Problems;Hardware+%2B+Software+%2B+AI;Learning+Deeply.+Building+Relentlessly."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+AI+%2F+ML;Competitive+Programming+%7C+DSA;Backend+Engineering+%7C+System+Design;Building+Intelligent+Real-World+Products" />
 </a>
+
+<br/>
+
+<a href="mailto:ramansingh092005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00D4FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/utkarsh-singh-a07966274/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ramansingh092005-arch"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/ramansingh092005-arch">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/utkarsh-singh-a07966274/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:ramansingh092005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ramansingh092005-arch&style=flat-square&color=00D4FF&label=PROFILE+VIEWS"/>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=ramansingh092005-arch&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/ramansingh092005-arch?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/ramansingh092005-arch?style=for-the-badge&logo=github&label=TOTAL+STARS"/>
+<div align="center">
+
+**ECE Undergraduate @ IIIT Nagpur**
+
+*I enjoy solving complex problems, engineering reliable systems, and turning ideas into working products.*
 
 </div>
 
 ---
 
-## `$ whoami`
-
-```python
-class UtkarshSingh:
-
-    def __init__(self):
-        self.name = "Utkarsh Singh"
-        self.education = "B.Tech | IIIT Nagpur"
-        self.branch = "Electronics & Communication Engineering"
-
-        self.interests = [
-            "Data Structures & Algorithms",
-            "Competitive Programming",
-            "Backend Engineering",
-            "System Design",
-            "Artificial Intelligence",
-            "Quantitative Engineering"
-        ]
-
-        self.engineering_approach = [
-            "Understand the problem",
-            "Find the invariant",
-            "Design the solution",
-            "Analyze complexity",
-            "Build and iterate"
-        ]
-
-    def current_mission(self):
-        return "Building useful software and mastering fundamentals."
-
-
-me = UtkarshSingh()
-```
-
-I'm an ECE undergraduate at **IIIT Nagpur**, interested in the intersection of software engineering, algorithms, hardware systems and artificial intelligence.
-
-I enjoy going beyond writing code: understanding why an algorithm works, how a backend system behaves under load, and how individual components come together to build reliable products.
-
-**What I care about:**
-- Writing correct, efficient and maintainable code.
-- Developing strong algorithmic and mathematical intuition.
-- Understanding systems from low-level hardware to application architecture.
-- Building products that solve real-world problems.
-
----
-
-## ⚡ Engineering Focus
-
 <div align="center">
 
-| DOMAIN | CURRENT FOCUS |
-|:---|:---|
-| 🧠 Algorithms | DSA, CP, complexity analysis, invariants |
-| ⚙️ Backend | APIs, databases, real-time communication |
-| 🏗️ Systems | Architecture, concurrency, system design |
-| 🤖 AI / ML | Model development, evaluation, adaptation |
-| 🔌 Hardware | Verilog, FSMs, digital communication |
+| 🧠 ALGORITHMS | ⚙️ ENGINEERING | 🤖 INTELLIGENCE |
+|:---:|:---:|:---:|
+| DSA & Competitive Programming | Backend & Real-Time Systems | AI / Machine Learning |
 
 </div>
 
----
+<details>
+<summary><b>👨‍💻 About Me — Explore my engineering mindset</b></summary>
 
-## 🛠️ Technical Arsenal
+I'm Utkarsh Singh, an Electronics and Communication Engineering undergraduate at IIIT Nagpur.
 
-### Programming Languages
+My interests lie at the intersection of software engineering, algorithms, backend systems, hardware and artificial intelligence.
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" />
-</div>
+**What I enjoy working on:**
 
-### Frontend Engineering
+- Algorithmic problem-solving and complexity optimization.
+- Backend architecture, APIs and database systems.
+- Real-time applications and distributed workflows.
+- Machine learning and intelligent applications.
+- Hardware-level logic and digital communication systems.
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" />
-</div>
+**My approach:**
 
-### Backend & Databases
+Understand the problem → Identify the invariant → Design the solution → Prove correctness → Optimize → Build.
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb&theme=dark" />
-</div>
+</details>
 
-### AI & Machine Learning
+<details>
+<summary><b>🛠️ Tech Stack — Explore technologies</b></summary>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" />
-</div>
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c&theme=dark"/>
+</p>
+
+**Frontend Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb&theme=dark"/>
+</p>
+
+**AI / Machine Learning**
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark"/>
+</p>
 
 - TensorFlow
 - Random Forest
-- Model evaluation
 - Machine Learning fundamentals
+- Model evaluation
 
-### Hardware & Simulation
+**Hardware & Simulation**
 
-<div align="center">
+<p>
 <img src="https://img.shields.io/badge/Verilog%20HDL-5C2D91?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Icarus%20Verilog-007C91?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge"/>
-</div>
+</p>
 
-### Developer Tools
+**Developer Tools**
 
-<div align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm&theme=dark"/>
-</div>
+</p>
+
+</details>
 
 ---
 
-## 🚀 Engineering Projects
+## 🚀 Featured Projects
 
-### 01 — Aaspaas | Kirana Shop Operating System
+<div align="center">
 
-<img align="right" width="90" src="https://skillicons.dev/icons?i=nodejs,ts,postgres"/>
+<a href="https://github.com/ramansingh092005-arch?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-**Building digital infrastructure for neighbourhood retail businesses.**
+</div>
 
-The objective is to simplify daily shop operations through a unified platform for inventory, billing, purchases and customer accounts.
+<details>
+<summary><b>01. Aaspaas — Kirana Shop Operating System</b> &nbsp; <img src="https://img.shields.io/badge/RETAIL-00D4FF?style=flat-square"/></summary>
 
-**Engineering highlights**
+**Vision:** Digitizing neighbourhood retail businesses through a unified shop management platform.
+
+**Problem**
+
+Local shops often manage inventory, billing, purchases and customer credit through disconnected manual processes.
+
+**Solution**
+
+A unified operating system for everyday kirana shop operations.
+
+**Key Engineering Features**
+
 - Shop and product management.
 - Inventory and stock workflows.
 - Billing and sales management.
@@ -157,88 +141,146 @@ The objective is to simplify daily shop operations through a unified platform fo
 - Purchase and expense tracking.
 - Real-time updates using Socket.IO.
 
-**Technology:** Node.js · TypeScript · PostgreSQL · MongoDB · Socket.IO · Vite
+**Technology Stack**
 
-<br clear="right"/>
+`Node.js` `TypeScript` `PostgreSQL` `MongoDB` `Socket.IO` `Vite`
 
----
+**Future AI possibilities — not yet claimed as implemented**
 
-### 02 — Smart Traffic Management System
+- Demand forecasting.
+- Intelligent stock recommendations.
+- Natural-language business analytics.
 
-<img align="right" width="90" src="https://skillicons.dev/icons?i=python"/>
+</details>
 
-**Adaptive traffic control using hardware-oriented logic.**
+<details>
+<summary><b>02. Smart Traffic Management System</b> &nbsp; <img src="https://img.shields.io/badge/HARDWARE-8B5CF6?style=flat-square"/></summary>
 
-A Verilog-based traffic simulation system designed to manage signal timing and emergency vehicle prioritization.
+**Vision:** Adaptive traffic control using hardware-oriented digital logic.
 
-**Engineering highlights**
+**Problem**
+
+Fixed-time traffic signals cannot always adapt to changing traffic density or emergency vehicle requirements.
+
+**Solution**
+
+A Verilog-based traffic controller with adaptive signal timing and emergency prioritization.
+
+**Key Engineering Features**
+
 - 10-state Finite State Machine.
-- Dynamic adaptive green signal timing.
+- Dynamic adaptive green timing.
 - Deterministic emergency preemption.
 - Hardware-enforced mutual exclusion.
 - Python Flask middleware.
 - Frontend traffic visualization.
 
-**Technology:** Verilog HDL · Icarus Verilog · Python · Flask
+**Architecture**
 
-<br clear="right"/>
+```text
+Traffic Inputs
+      |
+      v
+Verilog Controller
+      |
+      v
+10-State FSM
+      |
+      +---- Adaptive Signal Timing
+      |
+      +---- Emergency Preemption
+      |
+      v
+Flask Middleware
+      |
+      v
+Frontend Visualization
+```
 
----
+**Technology Stack**
 
-### 03 — AI-Driven Adaptive OFDM Communication System
+`Verilog HDL` `Icarus Verilog` `Python` `Flask`
 
-<img align="right" width="90" src="https://img.shields.io/badge/AI-ML-8A2BE2?style=for-the-badge"/>
+</details>
 
-**Machine learning meets digital communication.**
+<details>
+<summary><b>03. AI-Driven Adaptive OFDM Communication System</b> &nbsp; <img src="https://img.shields.io/badge/AI%20%2F%20ML-00D4FF?style=flat-square"/></summary>
 
-An adaptive OFDM communication system exploring modulation selection under changing channel conditions.
+**Vision:** Applying machine learning to adaptive digital communication.
 
-**Engineering highlights**
-- 64-point IFFT-based OFDM system.
+**Problem**
+
+Static modulation strategies may not perform optimally under changing wireless channel conditions.
+
+**Solution**
+
+An OFDM communication simulation exploring machine-learning-based modulation adaptation.
+
+**Key Engineering Features**
+
+- 64-point IFFT.
 - 52 active subcarriers.
 - Cyclic prefix of 16 samples.
-- AWGN and Rayleigh multipath channels.
+- AWGN and Rayleigh channel models.
 - Random Forest-based adaptation.
 - BER, SER, EVM and Goodput evaluation.
 
-**Technology:** MATLAB · Simulink · Python · Random Forest
+**Architecture**
 
-<br clear="right"/>
+```text
+Input Bits
+    |
+    v
+Modulation
+    |
+    v
+64-Point IFFT
+    |
+    v
+Cyclic Prefix
+    |
+    v
+Wireless Channel
+    |
+    v
+Receiver
+    |
+    v
+Performance Evaluation
+    |
+    v
+ML-Based Adaptation
+```
 
----
+**Technology Stack**
 
-### 04 — PathFinder | Graph Algorithm Visualizer
+`MATLAB` `Simulink` `Python` `Random Forest`
 
-<img align="right" width="90" src="https://skillicons.dev/icons?i=react,js"/>
+</details>
 
-**Visualizing how graph algorithms explore and find paths.**
+<details>
+<summary><b>04. PathFinder — Graph Algorithm Visualizer</b> &nbsp; <img src="https://img.shields.io/badge/ALGORITHMS-8B5CF6?style=flat-square"/></summary>
 
-An interactive project to understand graph traversal and shortest-path algorithms.
+**Vision:** Making graph algorithms easier to understand through interactive visualization.
 
 **Algorithms**
-- Breadth First Search.
-- Depth First Search.
+
+- Breadth First Search (BFS).
+- Depth First Search (DFS).
 - Dijkstra's Algorithm.
 - A* Search.
 - Bellman-Ford Algorithm.
 
-**Technology:** React · JavaScript · HTML · CSS
+**Technology Stack**
 
-<br clear="right"/>
+`React` `JavaScript` `HTML` `CSS`
 
-<div align="center">
-
-<a href="https://github.com/ramansingh092005-arch?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
+</details>
 
 ---
 
-## 🧠 Competitive Programming & Problem Solving
-
-I use competitive programming to strengthen algorithmic thinking, mathematical reasoning, optimization and implementation skills.
+<details>
+<summary><b>🧠 Competitive Programming — My Problem-Solving Journey</b></summary>
 
 <div align="center">
 
@@ -247,132 +289,101 @@ I use competitive programming to strengthen algorithmic thinking, mathematical r
 </a>
 
 <a href="https://codeforces.com/profile/utkarsh0402">
-<img src="https://img.shields.io/badge/Codeforces-utkarsh0402-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-utkarsh0402-445F9D?style=for-the-badge&logo=codeforces"/>
 </a>
 
 <a href="https://www.codechef.com/users/mad_coder_09">
-<img src="https://img.shields.io/badge/CodeChef-mad__coder__09-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-mad__coder__09-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
 </div>
 
-### Problem-Solving Roadmap
+**Current Focus**
 
-| FOUNDATION | INTERMEDIATE | ADVANCED |
-|:---|:---|:---|
-| Arrays & Strings | Trees & Graphs | Segment Trees |
-| Hashing | Dynamic Programming | Fenwick Trees |
-| Prefix Sums | Greedy Algorithms | DSU |
-| Two Pointers | Binary Search on Answer | Bitmask DP |
-| Sliding Window | Monotonic Stack | Number Theory |
-| Recursion | Backtracking | Advanced DP |
+| Foundation | Advanced |
+|---|---|
+| Arrays, Strings, Hashing | Segment Trees |
+| Prefix Sum, Sliding Window | Fenwick Trees |
+| Two Pointers, Binary Search | DSU |
+| Trees, Graphs, BFS/DFS | Shortest Paths |
+| Greedy, Backtracking | Bitmask DP |
+| Dynamic Programming | Number Theory |
 
-**Core principle:** Identify the pattern → derive the invariant → prove correctness → optimize complexity.
+**Problem-solving philosophy**
 
----
+```cpp
+while (problem_not_solved) {
+    understand_constraints();
+    identify_pattern();
+    establish_invariant();
+    derive_approach();
+    prove_correctness();
+    analyze_complexity();
+    optimize_if_needed();
+}
+```
 
-## 📊 GitHub Analytics
+</details>
+
+<details>
+<summary><b>📊 GitHub Analytics — Open dashboard</b></summary>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramansingh092005-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ramansingh092005-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramansingh092005-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramansingh092005-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ramansingh092005-arch&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
+<img width="100%" src="https://streak-stats.demolab.com?user=ramansingh092005-arch&theme=tokyonight&hide_border=true"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramansingh092005-arch&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
----
+</details>
 
-## 🐍 Contribution Activity
+<details>
+<summary><b>🐍 Contribution Animation — Open</b></summary>
 
 <div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramansingh092005-arch/ramansingh092005-arch/output/github-contribution-grid-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramansingh092005-arch/ramansingh092005-arch/output/github-contribution-grid-snake.svg"/>
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ramansingh092005-arch/ramansingh092005-arch/output/github-contribution-grid-snake.svg" width="100%"/>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ramansingh092005-arch/ramansingh092005-arch/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
 
----
+</details>
 
-## 🎓 Education
+<details>
+<summary><b>🎯 Current Goals & Engineering Interests</b></summary>
 
-**Indian Institute of Information Technology, Nagpur**
-
-B.Tech — Electronics and Communication Engineering
-
----
-
-## 🧭 Engineering Principles
-
-| PRINCIPLE | HOW I APPLY IT |
-|:---|:---|
-| Correctness first | Understand edge cases and prove the logic |
-| Complexity matters | Analyze time and space before optimizing |
-| Fundamentals over shortcuts | Understand the underlying concepts |
-| Build end-to-end | Connect frontend, backend and data layers |
-| Continuous improvement | Learn through practice, feedback and iteration |
-
----
-
-## 🎯 Current Objectives
-
-- Strengthen DSA and competitive programming.
-- Improve algorithmic problem-solving and implementation speed.
-- Build reliable and scalable backend applications.
-- Deepen knowledge of databases, networking and system design.
-- Explore AI/ML and quantitative engineering.
+- Master Data Structures and Algorithms.
+- Improve Competitive Programming performance.
+- Build production-ready backend systems.
+- Deepen understanding of databases, networking and system design.
+- Explore AI and quantitative engineering.
 - Ship Aaspaas to real shop owners.
 - Contribute to meaningful open-source projects.
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:ramansingh092005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/utkarsh-singh-a07966274/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ramansingh092005-arch">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/SINGH_UTKAR0402/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/utkarsh0402">
-<img src="https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/mad_coder_09">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-### "Think in invariants. Engineer from first principles. Build with purpose."
+## 🤝 Connect With Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:102A43,100:00C9FF&height=150&section=footer"/>
+<a href="mailto:ramansingh092005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/utkarsh-singh-a07966274/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ramansingh092005-arch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+
+<br/><br/>
+
+**"Think in invariants. Build from first principles. Engineer for impact."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050816,50:151038,100:001F3F"/>
 
 </div>
